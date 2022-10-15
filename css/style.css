@@ -433,11 +433,11 @@ body {
 }
 
 .slide-box--2 {
-    background-image: linear-gradient(var(--gradient-special)), url(./img/specT2.webp);
+    background-image: linear-gradient(var(--gradient-special)), url(../img/specT2.webp);
 }
 
 .slide-box--3 {
-    background: linear-gradient(var(--gradient-special)), url(./img/spec2.webp);
+    background: linear-gradient(var(--gradient-special)), url(../img/spec2.webp);
 }
 
 .slide-box {
