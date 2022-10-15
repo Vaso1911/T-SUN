@@ -260,7 +260,7 @@ body {
     font-size: 24px;
     font-weight: 700;
     background-color: var(--decorThree-color);
-    background-image: url(./img/f.svg);
+    background-image: url(../img/f.svg);
     background-repeat: no-repeat;
     background-size: 3.5em;
     background-position: right;
@@ -429,7 +429,7 @@ body {
 }
 
 .slide-box--1 {
-    background-image: url(./img/spec1.webp);
+    background-image: url(../img/spec1.webp);
 }
 
 .slide-box--2 {
@@ -558,19 +558,19 @@ body {
 }
 
 .services-card__img--1 {
-    background-image: url(./img/serv1.webp);
+    background-image: url(../img/serv1.webp);
 }
 
 .services-card__img--2 {
-    background-image: url(./img/serv2.webp);
+    background-image: url(../img/serv2.webp);
 }
 
 .services-card__img--3 {
-    background-image: url(./img/serv3.webp);
+    background-image: url(../img/serv3.webp);
 }
 
 .services-card__img--4 {
-    background-image: url(./img/serv4.webp);
+    background-image: url(../img/serv4.webp);
 }
 
 .services-card__description {
@@ -654,39 +654,39 @@ body {
 }
 
 .location-card__img--1 {
-    background-image: url(./img/hotel-1.webp);
+    background-image: url(../img/hotel-1.webp);
 }
 
 .location-card__img--2 {
-    background-image: url(./img/hotel-2.webp);
+    background-image: url(../img/hotel-2.webp);
 }
 
 .location-card__img--3 {
-    background-image: url(./img/hotel-3.webp);
+    background-image: url(../img/hotel-3.webp);
 }
 
 .location-card__img--4 {
-    background-image: url(./img/hotel-4.webp);
+    background-image: url(../img/hotel-4.webp);
 }
 
 .location-card__img--5 {
-    background-image: url(./img/hotel-5.webp);
+    background-image: url(../img/hotel-5.webp);
 }
 
 .location-card__img--6 {
-    background-image: url(./img/hotel-6.webp);
+    background-image: url(../img/hotel-6.webp);
 }
 
 .location-card__img--7 {
-    background-image: url(./img/hotel-7.webp);
+    background-image: url(../img/hotel-7.webp);
 }
 
 .location-card__img--8 {
-    background-image: url(./img/hotel-8.webp);
+    background-image: url(../img/hotel-8.webp);
 }
 
 .location-card__img--9 {
-    background-image: url(./img/all2.webp);
+    background-image: url(../img/all2.webp);
     min-height: 443px;
     border-radius: var(--borderMain);
 }
@@ -1068,7 +1068,7 @@ input[type='number'] {
     justify-content: space-between;
     padding: 45px;
     border-radius: var(--borderMain);
-    background-image: url(./img/f.svg);
+    background-image: url(../img/f.svg);
     background-repeat: no-repeat;
     background-position: 80% bottom;
     z-index: 1;
